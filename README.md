@@ -1,0 +1,1 @@
+this project is my first odin website creation, i hope to learn the basics of html and later on csl
