@@ -1,1 +1,1 @@
-this project is my first odin website creation, i hope to learn the basics of html and later on csl
+this project is my first odin webpage project, i hope to practice the basics of html and later on css
